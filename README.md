@@ -1,3 +1,3 @@
 # VBA-challenge
 
-This module is realted to VBA module challenge
+This repository contains files related to VBA Challenge
